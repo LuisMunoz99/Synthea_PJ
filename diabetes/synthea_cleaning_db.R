@@ -1,5 +1,5 @@
 ################################################################################
-## Synthea Data cleaning for Diabetes's observations regarding 
+## Synthea Data cleaning for Diabetes's observations for
 ## total Hemoglobin A1c/Hemoglobin in Blood and Total cholesterol.
 ##
 ################################################################################
